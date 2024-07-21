@@ -1,0 +1,34 @@
+This file is the todo list of the ConfluentI project software core
+
+++ done
+-- todo
+** ongoing
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--> Software GUI.(2013)
+--> Software core class.(2013)
+--> Link GUI to a PostgreSQL Database.(2013)
+--> Update (INSERT) entries to a Database from the GUI.(2013)
+--> Search (SELECT) entries from a Database from the GUI.(2013)
+--> Log all GUI and nonGUI operations.(2013)
+--> Facial detection engine.(2013)
+--> Added support for MySQL/MariaDB database servers.(09-04-2014)
+--> Transform log text widget to a table widget for more cleaner log.(21-04-2014)
+--> Need a module to DETECT and CROP faces in all images in a given folder.(02-05-2014)
+--> Extend Database columns to contain all the GUI insert field (now only: names, firstnames and regions). (15-09-2014)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+********************************************************
+--> Need a unix-like login/password (MD5 hashed /etc/password file).
+--> Facial detection/recognition samples creating algorithm.
+--> Real object oriented structure of the ConfluentI code.
+--> Drag image from an image viewer to the facial recognizer ui to launch the recognition engine.
+********************************************************
+
+--------------------------------------------------------
+--> Database fields encryption.
+--> Database Filesystem encryption.
+--> Filter search widget's view by line search entry.
+--> Web interface the same as the GUI.
+--> Dual or Quad facial detection/recognition engine and GUI.
+--------------------------------------------------------

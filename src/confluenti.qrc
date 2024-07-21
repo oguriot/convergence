@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/qrc_icons">
+        <file>icons/Clear.png</file>
+        <file>icons/Control.png</file>
+        <file>icons/EkipaR_logo.jpg</file>
+        <file>icons/Eyes.png</file>
+        <file>icons/Faces.gif</file>
+        <file>icons/Facial Rec.png</file>
+        <file>icons/FacialRecGif.gif</file>
+        <file>icons/Insert.png</file>
+        <file>icons/Log.png</file>
+        <file>icons/MAIA_icon_About.png</file>
+        <file>icons/MAIA_icon_Cascade.png</file>
+        <file>icons/MAIA_icon_Help.png</file>
+        <file>icons/MAIA_icon_OnOff.png</file>
+        <file>icons/MAIA_icon_Open.png</file>
+        <file>icons/MAIA_icon_Quit.png</file>
+        <file>icons/MAIA_icon_Save.png</file>
+        <file>icons/MAIA_icon_Tile.png</file>
+        <file>icons/MAIA_icon.png</file>
+        <file>icons/Search.png</file>
+        <file>icons/Sensors.png</file>
+    </qresource>
+</RCC>
